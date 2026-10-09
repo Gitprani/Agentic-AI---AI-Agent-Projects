@@ -1,0 +1,3 @@
+Month-End Close Checklist
+Page: 2
+Month-end close requires bank reconciliation, exception review, journal approval, and controller sign-off before ledger lock.

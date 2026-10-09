@@ -1,0 +1,7 @@
+period,department,account,budget,actual
+2026-Q2,Cloud,Revenue,1250000.00,1315000.00
+2026-Q2,Cloud,Travel,45000.00,61200.00
+2026-Q2,Cloud,Contractors,180000.00,171000.00
+2026-Q2,Data,Revenue,900000.00,864000.00
+2026-Q2,Data,Travel,30000.00,28750.00
+2026-Q2,Data,Contractors,140000.00,158200.00

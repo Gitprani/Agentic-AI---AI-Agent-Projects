@@ -1,0 +1,3 @@
+base,quote,as_of,rate,source
+USD,EUR,2026-06-30,0.92,course_treasury_feed
+EUR,USD,2026-06-30,1.08695652,course_treasury_feed
